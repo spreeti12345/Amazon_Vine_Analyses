@@ -35,10 +35,9 @@ We then peform the following transforms to the dataframe:
 
 We notice that the number of non member votes is larger than the member votes.
 
-# Reviews by member type
+## Reviews by member type
 
-But when we look at the percentage of five star reviews between the two categories they are close- but the non vine members reviews is 4% higher than Vine member reviews. Vine Review Analysis
-
+When we look at the percentage of five star reviews between the two categories they are close- but the non vine members reviews is 4% higher than Vine member reviews.
 This leads us to the conclusion that there is is no bias towards member reviews in the Vine program.
 
 
